@@ -1,0 +1,30 @@
+.beyazyazi{
+    color:white;
+}
+.yaziboyut{
+    font-size: 16px;
+    
+}
+
+.resimboyut{
+    height: 600px;
+}
+.ust{
+    position: fixed;
+    top:0;
+}
+.ustiki{
+    position: fixed;
+    top:30px;
+}
+
+
+
+@media (max-width:959px){ 
+    .yaziboyut{
+        font-size: 9px;;
+    }
+    .resimboyut{
+        height:450px;
+    }
+}
